@@ -1,1 +1,1 @@
-# ransomware-code-getec
+# Estudo - Construção algoritmo ransomware com Python
